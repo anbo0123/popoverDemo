@@ -4,4 +4,4 @@
 
 效果图
 
-![image](https://github.com/6ag/popoverDemo/blob/master/popover.gif)
+![image](https://github.com/6ag/popoverDemo/blob/master/pop.gif)
